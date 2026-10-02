@@ -1,0 +1,27 @@
+{
+  "name": "real-estate-enhancer-server",
+  "version": "1.0.0",
+  "description": "Backend API server for OpenAI Real Estate Image Enhancer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "archiver": "^7.0.1",
+    "axios": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "isomorphic-git": "^1.42.6",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.63.0",
+    "sharp": "^0.33.5",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

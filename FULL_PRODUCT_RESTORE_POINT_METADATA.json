@@ -1,0 +1,22 @@
+{
+  "restore_point_name": "FULL_PRODUCT_RESTORE_POINT",
+  "display_name": "Full Product Restore Point",
+  "created_at": "2026-09-29T17:57:27.708Z",
+  "description": "Complete Unified Admin Dashboard (Listing Studio + Lead Ingestion & Cleaning Studio) for A SQUARED REAL ESTATE",
+  "features_included": [
+    "Unified Top Glassmorphic Navbar (Listing Studio + Lead Ingestion & Cleaning tabs)",
+    "Listing Studio: Photo QA & Conservative Enhancement Engine (Sharp)",
+    "Asquared Default Guardrail Prompt (Zero diffusion hallucination)",
+    "Before / After split comparison slider modal with keyboard shortcuts",
+    "Bayut & Property Finder SEO Copywriter + WhatsApp Broker Broadcast",
+    "1-Click Full-Resolution Master ZIP Batch Exporter",
+    "Lead Ingestion & Cleaning Studio: UAE E.164 phone normalizer (+971)",
+    "Dubai Landline Filter (04/02)",
+    "2-Tier Deduplication (In-File + Supabase master_leads batch index)",
+    "5 Frosted Glass KPI Stat Cards & Pipeline Dynamics visual flow",
+    "Drag & drop CSV dropzone + 1-Click Load Sample Messy File button",
+    "Column synonym auto-detector",
+    "Multi-tab segmented data table (Clean Leads, In-File Dups, In CRM, Invalid)",
+    "1-Click Cleaned CSV export & n8n / Bitrix24 CRM push integration"
+  ]
+}

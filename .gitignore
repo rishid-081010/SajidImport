@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Backups & Archives
+_backups/
+*.zip
+*.tar.gz
+
+# Builds
+dist/
+client/dist/
+
+# Uploads
+server/uploads/generated/*
+!server/uploads/generated/.gitkeep
+server/uploads/original/*
+!server/uploads/original/.gitkeep
+
+# Temporary Scripts
+push_to_github.mjs
